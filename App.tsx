@@ -16,7 +16,7 @@ const App = () => {
           padding: 4,
           borderRadius: 25,
         }}>
-        All the file in components Folder -{' '}
+        All the file in components Folder --
       </Text>
     </View>
   );
